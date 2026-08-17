@@ -175,18 +175,18 @@ a segmentation (inference) method of a FlexUNet Model
 trained by the first ImageMask Dataset.
 <br>
 <br>
-<b>Step 4</b><br>
+<b>Step 5</b><br>
 We generated the second ImageMask Dataset from all pairs of the second pseudo masks and their corresponding master images.
 <br>
 <br>
-<b>Step 5</b><br>
+<b>Step 6</b><br>
 We generated the third pseudo masks corresponding to the master images by applying 
 a segmentation (inference) method of a FlexUNet Model 
 <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model">TensorFlow-FlexUNet-Image-Segmentation-Model</a> 
 trained by the second ImageMask Dataset.
 <br>
 <br>
-<b>Step 6</b><br>
+<b>Step 7</b><br>
 We finally generated our own <a href="https://drive.google.com/file/d/1KoNKtZHVxBKNJRNhG6mehM2N8n2GI9Ua/view?usp=sharing"><b>BUSCot-ImageMask-Dataset</b></a> from 
 all pairs of the third pseudo masks and their corresponding master images.
 <br><br>
