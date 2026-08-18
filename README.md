@@ -2,7 +2,7 @@
 <h3>BUSCot Breast Cancer: AI Generated Pseudo Masks Segmentation Challenge</h3>
 Sarah T.  Arai<br>
 Software Laboratory antillia.com<br><br>
-This is the second experiment of Image Segmentation for <b>BUSCot</b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
+This is the first experiment of Image Segmentation for <b>BUSCot Breast Cancer</b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
 (TensorFlow Flexible UNet Image Segmentation Model for Multiclass), 
 and a 512x512 pixels upscaled 
 <a href="https://drive.google.com/file/d/1KoNKtZHVxBKNJRNhG6mehM2N8n2GI9Ua/view?usp=sharing">
